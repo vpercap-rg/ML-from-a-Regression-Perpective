@@ -8,3 +8,7 @@ pyreadr
 seaborn
 tensorflow
 ISLP
+openpyxl
+plotly
+kaleido>=1.0.0
+jinja2
